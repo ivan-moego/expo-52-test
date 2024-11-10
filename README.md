@@ -1,7 +1,7 @@
 ### instruction
 
 ```shell
-cd my-app
+cd example
 pnpm i
 npx expo prebuild
 cd ios
